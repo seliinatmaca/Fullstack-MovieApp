@@ -21,7 +21,7 @@ DELETE /api/movies/:id > idsine göre filmi kaldırır.
 
 <h2> Demo </h2>
 
-You can view a live demo of this project [here](https://seliinatmaca.github.io/QRMenu/).
+You can view a live demo of this project [here](fullstackmovieapp.netlify.app).
 
 <h2> Screenshot </h2>
 
